@@ -1,4 +1,4 @@
-__author__ = "Eder Tassin 77097"
+__author__ = "Eder Tassin"
 
 import service
 
